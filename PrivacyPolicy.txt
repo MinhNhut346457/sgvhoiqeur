@@ -215,7 +215,7 @@ IX. How this Policy is Updated
 
 9.2.1 There is a major change to our service model, such as the purpose of processing personal information, the types of personal information being processed, and the way personal information is used.
 
-9.2.2 发生重大变更，包括但不限于所有权结构、组织架构调整，例如因业务调整、破产或并购导致的所有者变更等；
+9.2.2 A material change occurs, including but not limited to adjustments to the ownership structure or organizational structure, such as change of ownership resulting from business adjustment, bankruptcy or merger and acquisition;
 
 9.2.3 There is a change to the main recipients or types of shared, transferred or publicly disclosed personal information;
 
